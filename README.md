@@ -28,8 +28,10 @@ tensorflow
 
 **Accuracy**
 
+![Capture](https://user-images.githubusercontent.com/67000746/234538406-bb28c70e-d7ad-4ddd-9880-b73f08d9047f.PNG)
 
-**Train and loss Graph **
+
+**Train and loss Graph**
 
 ![image](https://user-images.githubusercontent.com/67000746/234536647-102f1ed1-e32f-4666-b7cb-a5d7fca947a4.png)
 
