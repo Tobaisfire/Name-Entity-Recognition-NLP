@@ -15,6 +15,20 @@ seaborn
 scikit-learn
 tensorflow
 
+**Graphs And Overview**
+![image](https://user-images.githubusercontent.com/67000746/234536090-781dd65c-d6ae-4892-a468-210663035dab.png)
+
+![image](https://user-images.githubusercontent.com/67000746/234536181-7f559683-196d-4065-9759-a3fd77b651b0.png)
+
+![image](https://user-images.githubusercontent.com/67000746/234536234-29f8f8ea-02aa-4737-9028-dcb96ecefb11.png)
+
+**Accuracy**
+![image](https://user-images.githubusercontent.com/67000746/234536339-e3cb3ce1-8b4f-42d8-aeb7-e14d28f29312.png)
+
+**Train and loss Graph **
+![image](https://user-images.githubusercontent.com/67000746/234536647-102f1ed1-e32f-4666-b7cb-a5d7fca947a4.png)
+
+
 **Usage**
 To use this project, follow these steps:
 
